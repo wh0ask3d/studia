@@ -29,6 +29,15 @@ Dalszy wzrost produktywności napędzanej przez AI zależy od tego, jak stabilne
 * Ryzyko uzależnienia od jednego dostawcy (Vendor Lock-in): Skupienie najlepszych narzędzi podnoszących efektywność w rękach platformy GitHub (Microsoft) sprawia, że jakakolwiek awaria lub zmiana cennika bezpośrednio uderza w globalną płynność pracy programistów [12].
 * Wizja zdecentralizowanej efektywności: Alternatywą dla centralizacji stają się systemy kontroli wersji oparte na blockchainie, które w przyszłości mogą zaoferować automatyzację i bezpieczeństwo bez konieczności polegania na infrastrukturze wielkich korporacji [12, 13].
 
+5. Wpływ narzędzi AI na jakość kodu i weryfikację techniczną
+
+Choć AI znacząco zwiększa tempo tworzenia kodu, wprowadza też nowe wyzwania związane z jego jakością i bezpieczeństwem:
+
+Generowanie kodu o niejednoznacznej poprawności: AI może wygenerować fragmenty syntaktycznie poprawne, ale zawierające błędy logiczne lub podatności bezpieczeństwa, wymagające manualnej weryfikacji.
+Ryzyko „przeciążenia kodem” (code bloat): Automatyczne sugestie mogą prowadzić do powstawania nieoptymalnych struktur lub nadmiarowych funkcji, które spowalniają system i utrudniają jego utrzymanie.
+Potrzeba zautomatyzowanego testowania: Integracja AI wymaga rozwinięcia procesów automatycznego testowania (unit, integration, security tests), aby zapewnić, że przyspieszenie w produkcji kodu nie pogarsza jakości ostatecznego produktu.
+Rola człowieka jako ostatecznego recenzenta: Mimo automatyzacji, odpowiedzialność za architekturę, bezpieczeństwo i czytelność kodu pozostaje po stronie programisty, który musi ocenić i zatwierdzić propozycje AI.
+
 ## Podsumowanie
 Analiza ekosystemu GitHub Copilot oraz GitHub Spark wyraźnie pokazuje, że narzędzia oparte na sztucznej inteligencji rewolucjonizują produktywność w sektorze IT. Wdrożenie tych technologii nie doprowadzi jednak do zastąpienia programistów, lecz fundamentalnie zmieni model ich pracy z systemami kontroli wersji [13, 14]. Zamiast tracić czas na powtarzalne, manualne operacje i pisanie powtarzalnego kodu, deweloperzy stają się nadzorcami, architektami i recenzentami systemów AI. Choć wyzwania prawne oraz infrastrukturalne u progu ery Git 3.0 wymagają ostrożności, symbioza ludzkiej inwencji z automatyzacją AI stanowi obecnie najważniejszy czynnik determinujący efektywność nowoczesnego programisty.
 
