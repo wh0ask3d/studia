@@ -29,7 +29,7 @@ Dalszy wzrost produktywności napędzanej przez AI zależy od tego, jak stabilne
 * Ryzyko uzależnienia od jednego dostawcy (Vendor Lock-in): Skupienie najlepszych narzędzi podnoszących efektywność w rękach platformy GitHub (Microsoft) sprawia, że jakakolwiek awaria lub zmiana cennika bezpośrednio uderza w globalną płynność pracy programistów [12].
 * Wizja zdecentralizowanej efektywności: Alternatywą dla centralizacji stają się systemy kontroli wersji oparte na blockchainie, które w przyszłości mogą zaoferować automatyzację i bezpieczeństwo bez konieczności polegania na infrastrukturze wielkich korporacji [12, 13].
 
-5. Wpływ narzędzi AI na jakość kodu i weryfikację techniczną
+## 5. Wpływ narzędzi AI na jakość kodu i weryfikację techniczną
 
 Choć AI znacząco zwiększa tempo tworzenia kodu, wprowadza też nowe wyzwania związane z jego jakością i bezpieczeństwem:
 
